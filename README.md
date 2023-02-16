@@ -12,33 +12,3 @@
 
 </div>
 </div>
-
-```js
-async function callAsync() {
-  await window.requestStuff().then((res) => {
-    return treat(res);
-  });
-}
-try {
-} catch (error) {
-  console.log(error);
-}
-```
-
-### Liste des tâches
-
-- [x] Tâche #A
-- [x] Tâche #B
-
----
-
-| Nom      | Prenoms  | Age |
-| :------- | :------- | :-- |
-| ALASSANI | MOUKADIM | 23  |
-
-<details>
-<summary>
-Javascript
-</summary>
-lremldjldfldhofhqhfdhjkfhi
-</details>
